@@ -60,3 +60,6 @@ A main class was developed to demonstrate:
 ## Conclusion
 
 The MVC Pattern was successfully implemented using a Student Management System example. The Student class served as the Model, StudentView acted as the View, and StudentController functioned as the Controller. This implementation demonstrated how MVC separates data management, user interface, and application logic, resulting in a more organized and maintainable application structure.
+
+## output
+<img width="1901" height="1058" alt="image" src="https://github.com/user-attachments/assets/22ed327e-e44d-472e-ab16-6b5f78e95f99" />

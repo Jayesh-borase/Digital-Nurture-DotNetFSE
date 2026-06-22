@@ -1,6 +1,6 @@
 # Exercise 4: Creating a Stored Procedure to Count Employees by Department
 
-## Scenario: In a company database, management requires a quick way to view the number of employees in each department for workforce analysis and planning. Rather than manually writing SELECT COUNT(*) queries, a stored procedure is designed to automate this task for any department as needed.
+ cenario: In a company database, management requires a quick way to view the number of employees in each department for workforce analysis and planning. Rather than manually writing SELECT COUNT(*) queries, a stored procedure is designed to automate this task for any department as needed.
 
 ## Steps Taken: Setup and Cleanup: 
 

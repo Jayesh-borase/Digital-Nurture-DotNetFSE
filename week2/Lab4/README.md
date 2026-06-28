@@ -1,4 +1,4 @@
-<img width="1905" height="1069" alt="Screenshot 2026-06-28 232821" src="https://github.com/user-attachments/assets/0e7713ef-70ff-468d-a08a-ea8e749e9e75" /># Lab 4: Inserting Initial Data into the Database
+# Lab 4: Inserting Initial Data into the Database
 
 ## 1. Scenario
 

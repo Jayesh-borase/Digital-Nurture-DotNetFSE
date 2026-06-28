@@ -48,5 +48,6 @@ dotnet add package Microsoft.EntityFrameworkCore.SqlServer
 dotnet add package Microsoft.EntityFrameworkCore.Design
 ```
 ### output
+<img width="1919" height="1079" alt="Screenshot 2026-06-28 102507" src="https://github.com/user-attachments/assets/eb4e7149-6dc9-4436-83fd-48f94c2d95cd" />
 
 

@@ -1,4 +1,4 @@
-<img width="1918" height="1028" alt="post_req_swagger" src="https://github.com/user-attachments/assets/39fc0a2f-d0ee-4875-b70e-ed161ecbe769" /><img width="1918" height="1028" alt="post_req_swagger" src="https://github.com/user-attachments/assets/5dd4c4ea-f3ec-4edf-9b45-cab6f174923d" /><img width="1918" height="1028" alt="post_req_swagger" src="https://github.com/user-attachments/assets/74659ed1-1796-46c3-8387-ce893065732a" /><img width="1918" height="1028" alt="post_req_swagger" src="https://github.com/user-attachments/assets/592bf000-a49d-4b7a-95b2-899be8f6c799" /><img width="1918" height="1028" alt="post_req_swagger" src="https://github.com/user-attachments/assets/554f9d77-71dc-4272-a951-c0eb4af1df46" /># Web API Handson 6 – Apache Kafka Integration with ASP.NET Core Web API
+# Web API Handson 6 – Apache Kafka Integration with ASP.NET Core Web API
 
 ## Objective
 

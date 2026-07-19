@@ -183,28 +183,30 @@ Verified that the application compiled successfully without any errors.
 ## Task 1
 
 ### Angular Project Creation
+<img width="1919" height="1079" alt="angular_application_created" src="https://github.com/user-attachments/assets/a4e87f91-73c9-471c-a11a-9cf1d77ac610" />
 
-![alt text](angular_application_created.png)
 
 ---
 
 ### Angular Default Welcome Page
 
-![alt text](Welcome_Page.png)
+<img width="1919" height="1077" alt="Welcome_Page" src="https://github.com/user-attachments/assets/8ba4aa1c-24f0-4452-bbf1-94a390d69fd9" />
+
 
 ---
 
 ### Angular Application Build (Compiled Code)
 
-![alt text](compiled_code.png)
+<img width="1919" height="1079" alt="compiled_code" src="https://github.com/user-attachments/assets/484faf31-f01f-439c-b713-648a69ca0e85" />
+
 
 ---
 
 ## Task 2
 
 ### Student Course Portal Home Page
+<img width="1919" height="1079" alt="Home_Page" src="https://github.com/user-attachments/assets/cf22475f-1166-456e-b465-dedee87d1cc0" />
 
-![alt text](Home_Page.png)
 ---
 
 # Concepts Demonstrated

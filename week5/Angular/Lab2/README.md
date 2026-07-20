@@ -147,6 +147,7 @@ After completing this hands-on, the Student Course Portal application should:
 
 ## Task 2 – Home Component Initialization
 
+<img width="1919" height="1077" alt="task2_Home_Initilization" src="https://github.com/user-attachments/assets/5d496668-1c47-40d9-bf6e-dc492ad983d6" />
 
 
 
@@ -154,13 +155,14 @@ After completing this hands-on, the Student Course Portal application should:
 
 ## Task 2 – Lifecycle Hooks
 
-
+<img width="1919" height="1079" alt="task2_lifecycle_console" src="https://github.com/user-attachments/assets/cca372d3-5491-41ff-80fb-afc99b697156" />
 
 
 ---
 
 ## Task 3 – Parent Child Communication
 
+<img width="1919" height="1078" alt="task3_Parent_childcommunication" src="https://github.com/user-attachments/assets/c4af6e8a-533d-474a-a7c4-7a59c7154019" />
 
 
 ---

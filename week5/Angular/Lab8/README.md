@@ -1,5 +1,4 @@
-<img width="1505" height="803" alt="Error_Handling" src="https://github.com/user-attachments/assets/5fb036dc-e572-4fcc-a95e-2570ddd5f98c" /># Hands-On 8 – HTTP Client, API Integration, Observables & Interceptors
-
+# Hands-On 8 – HTTP Client, API Integration, Observables & Interceptors
 ## Objective
 
 The objective of this hands-on is to integrate the Student Course Portal with REST APIs using Angular HttpClient, replace hardcoded data with HTTP requests, perform CRUD operations, use RxJS operators, handle HTTP errors, and implement HTTP Interceptors for authentication, error handling, and loading indication.

@@ -1,117 +1,91 @@
-# React Hands-On 5 – Styling React Components using CSS Modules
+# Cricket App 9– ES6 Features in React
 
 ## Objective
 
-- Understand the need for styling React components.
-- Apply styles using CSS Modules.
-- Use `className` and inline styles in React components.
+- Understand ES6 features in JavaScript.
+- Learn the difference between `var`, `let`, and `const`.
+- Implement ES6 arrow functions.
+- Use `map()` for rendering lists.
+- Use array destructuring.
+- Merge arrays using the spread (`...`) operator.
+
+---
+
+## Technologies Used
+
+- React
+- JavaScript (ES6)
+- Node.js
+- npm
+- Visual Studio Code
 
 ---
 
 ## Prerequisites
 
-- Node.js
-- NPM
+- Node.js installed
+- npm installed
 - Visual Studio Code
-
----
-
-## Project Name
-
-**cohortstracker**
 
 ---
 
 ## Implementation
 
-### Step 1 – Restore Project Dependencies
+### Task 1 – Create React Application
 
-Install all required packages.
-
-```bash
-npm install
-```
+- Created a React application named **cricketapp**.
+- Opened the project in Visual Studio Code.
 
 ---
 
-### Step 2 – Run the React Application
+### Task 2 – List of Players Component
 
-Start the development server.
-
-```bash
-npm start
-```
+- Created an array containing **11 players** with their names and scores.
+- Displayed the player list using the **map()** method.
+- Filtered players having scores less than **70** using **ES6 arrow functions**.
 
 ---
 
-### Step 3 – Create CSS Module
+### Task 3 – Indian Players Component
 
-Created a CSS Module file named:
-
-```
-CohortDetails.module.css
-```
-
-Defined the `.box` class with:
-
-- Width: 300px
-- Display: inline-block
-- Margin: 10px
-- Padding: 10px 20px
-- Border: 1px solid black
-- Border Radius: 10px
-
-Also styled the `<dt>` element using a tag selector.
-
----
-
-### Step 4 – Import CSS Module
-
-Imported the CSS module into the `CohortDetails` component.
-
-```javascript
-import styles from "./CohortDetails.module.css";
-```
-
----
-
-### Step 5 – Apply CSS Module
-
-Applied the `box` class to the container using:
-
-```jsx
-<div className={styles.box}>
-```
-
----
-
-### Step 6 – Apply Conditional Styling
-
-Applied inline styling to the `<h3>` element.
-
-- Green color for **Ongoing** cohorts.
-- Blue color for all other cohort statuses.
-
-Example:
-
-```jsx
-<h3 style={{ color: status === "Ongoing" ? "green" : "blue" }}>
-```
-
----
-
-
----
-
-### Step 7 – Cohort details page
+- Used **array destructuring** to display **Odd Team Players** and **Even Team Players**.
+- Declared **T20Players** and **RanjiTrophyPlayers** arrays.
+- Merged both arrays using the **spread (`...`) operator**.
+- Displayed the merged list of players.
 
 ![alt text](code.png)
 
 ---
 
+### Task 4 – Conditional Rendering
+
+- Used a boolean **flag** variable.
+- When `flag = true`, displayed the **List of Players**.
+- When `flag = false`, displayed the **Indian Players** component.
+
+---
+
 ## Output
 
-### Final Styled React Application
+### Task 1 – Player List (Flag = true)
 
-![alt text](CoherrtDetails.png)
+![alt text](op1.png)
 
+Displays:
+- List of all players
+- Players with scores less than 70
+
+### Task 2 – Indian Players (Flag = false)
+
+![alt text](op2.png)
+
+Displays:
+- Odd Team Players
+- Even Team Players
+- Merged list of Indian Players
+
+---
+
+## Result
+
+Successfully created a React application demonstrating ES6 features including **map()**, **arrow functions**, **array destructuring**, **spread operator**, and **conditional rendering**.

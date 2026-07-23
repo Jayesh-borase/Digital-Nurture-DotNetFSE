@@ -1,4 +1,4 @@
-# Cricket App – ES6 Features in React
+# Cricket App 10– ES6 Features in React
 
 ## Objective
 

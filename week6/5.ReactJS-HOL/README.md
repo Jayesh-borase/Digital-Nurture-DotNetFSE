@@ -1,4 +1,4 @@
-# React Hands-On 5 – Styling React Components using CSS Modules
+# React Hands-ON 5 – Styling React Components using CSS Modules
 
 ## Objective
 

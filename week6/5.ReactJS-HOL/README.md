@@ -100,9 +100,18 @@ Example:
 
 ---
 
+
+---
+
+### Step 7 – Cohort details page
+
+![alt text](code.png)
+
+---
+
 ## Output
 
 ### Final Styled React Application
 
-![alt text](CohortDetails.png)
+![alt text](CoherrtDetails.png)
 

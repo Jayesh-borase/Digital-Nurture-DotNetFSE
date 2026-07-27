@@ -131,7 +131,7 @@ git branch -d GitNewBranch
 
 ### 5. Branch Deleted
 
-- Successfully deleted the merged branch.
+- Successfully delete the merged branch.
 
 ![alt text](delete_branch.png)
 ---
